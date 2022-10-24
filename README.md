@@ -1,1 +1,1 @@
-# CryptoHack Introduction
+# CryptoHack
